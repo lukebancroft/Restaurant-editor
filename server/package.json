@@ -1,5 +1,5 @@
 {
-  "name": "tp_routage_express_crud",
+  "name": "server",
   "version": "1.0.0",
   "description": "",
   "main": "serverCrud.js",
